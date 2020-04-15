@@ -1,0 +1,29 @@
+<h2>Admin Login</h2>
+                                <!-- <p>Please enter your email and password</p> -->
+                             <br>
+                            </div>
+                            <form action="admin.php" method="POST">
+							<table border="1", width="40%"  align="center">
+							<tr>
+
+                                <div class="form-group">
+                                   <td> <input type="username" name="username" class="form-control" placeholder="username"></td>
+								   </tr>
+                                </div>
+
+                                <tr><div class="form-group">
+                                   <td> <input type="password" name="password" class="form-control" placeholder="Password"></td>
+								   </tr>
+                                </div>
+                                <tr>
+                                <td><button type="submit" name="adminlogin" class="btn btn-primary">Login</button></td>
+								</tr>
+
+                            </form>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        </div>
+   </div>
+</div>
